@@ -59,12 +59,12 @@ export default function Home() {
       <main className="flex-1">
         <section id="home" className="relative h-[calc(100vh-3.5rem)] w-full">
           <Image
-            src="https://placehold.co/1920x1080.png"
+            src="https://plus.unsplash.com/premium_photo-1663852297267-827c73e7529e?q=80&w=1920&h=1080&auto=format&fit=crop"
             alt="Pan recién horneado"
             layout="fill"
             objectFit="cover"
             className="brightness-50"
-            data-ai-hint="fresh bread"
+            data-ai-hint="bakery display"
           />
           <div className="relative z-10 flex h-full flex-col items-center justify-center text-center text-white p-4">
             <div className="animate-fade-in-down space-y-4">
