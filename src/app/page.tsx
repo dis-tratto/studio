@@ -59,12 +59,12 @@ export default function Home() {
       <main className="flex-1">
         <section id="home" className="relative h-[calc(100vh-3.5rem)] w-full">
           <Image
-            src="https://images.unsplash.com/photo-1578916171728-46686eac8d58?q=80&w=1920&h=1080&auto=format&fit=crop"
-            alt="Panadería Pan Calidez"
+            src="https://images.unsplash.com/photo-1555507036-ab1f4038808a?q=80&w=1920&h=1080&auto=format&fit=crop"
+            alt="Panes artesanales en una panadería"
             layout="fill"
             objectFit="cover"
             className="brightness-50"
-            data-ai-hint="bakery interior"
+            data-ai-hint="artisan bread"
           />
           <div className="relative z-10 flex h-full flex-col items-center justify-center text-center text-white p-4">
             <div className="animate-fade-in-down space-y-4">
