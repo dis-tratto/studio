@@ -68,10 +68,10 @@ export default function Home() {
           />
           <div className="relative z-10 flex h-full flex-col items-center justify-center text-center text-white p-4">
             <div className="animate-fade-in-down space-y-4">
-              <h1 className="text-5xl font-bold tracking-tight text-primary-foreground sm:text-6xl md:text-7xl font-headline" style={{textShadow: '2px 2px 4px rgba(0,0,0,0.5)'}}>
+              <h1 className="text-5xl font-bold tracking-tight text-white sm:text-6xl md:text-7xl font-headline" style={{textShadow: '2px 2px 8px rgba(0,0,0,0.7)'}}>
                 Bienvenidos a Pan Calidez
               </h1>
-              <p className="max-w-2xl text-lg text-primary-foreground/90 md:text-xl" style={{textShadow: '1px 1px 2px rgba(0,0,0,0.7)'}}>
+              <p className="max-w-2xl text-lg text-white/90 md:text-xl" style={{textShadow: '1px 1px 4px rgba(0,0,0,0.8)'}}>
                 El sabor de la tradición horneado con amor cada día.
               </p>
               <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
